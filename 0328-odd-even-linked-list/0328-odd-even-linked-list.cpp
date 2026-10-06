@@ -16,31 +16,16 @@ public:
         }
 
         vector<int> arr;
-        ListNode* cur1=head;
-        ListNode* cur2=head->next;
-        
-        while(cur1!=NULL){
-            arr.push_back(cur1->val);
-            if(cur1->next == NULL){
-                break;
-            }
-            cur1=cur1->next->next;
+        ListNode* odd=head;
+        ListNode* even=head->next;
+        ListNode* temp=head->next;
+        while(even != NULL && even->next != NULL){
+            odd->next=even->next;
+            odd=odd->next;
+            even->next=odd->next;
+            even=even->next;
         }
-        while(cur2!=NULL){
-            arr.push_back(cur2->val);
-            if(cur2->next == NULL){
-                break;
-            } 
-            cur2=cur2->next->next;
-        }
-
-        ListNode* cur=head;
-        int i=0;
-        while(cur!=NULL){
-            cur->val=arr[i];
-            i++;
-            cur=cur->next;
-        }
+        odd->next=temp;
         return head;
     }
 };
