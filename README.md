@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0287-find-the-duplicate-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0234-palindrome-linked-list) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
