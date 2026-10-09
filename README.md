@@ -28,18 +28,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0202-happy-number) |
+| [0645-set-mismatch](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
