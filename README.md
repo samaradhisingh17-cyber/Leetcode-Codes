@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0645-set-mismatch) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0441-arranging-coins) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -147,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
