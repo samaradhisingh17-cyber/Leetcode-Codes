@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0645-set-mismatch) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
