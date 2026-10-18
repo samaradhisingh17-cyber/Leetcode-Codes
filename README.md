@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0441-arranging-coins) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/2520-count-the-digits-that-divide-a-number) |
