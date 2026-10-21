@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0414-third-maximum-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0645-set-mismatch) |
 | [2465-number-of-distinct-averages](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/2465-number-of-distinct-averages) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0645-set-mismatch) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -171,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
