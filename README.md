@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0238-product-of-array-except-self) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/samaradhisingh17-cyber/Leetcode-Codes/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
